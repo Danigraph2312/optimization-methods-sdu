@@ -116,16 +116,16 @@ The algorithm scales to instances with $n > 1000$ villages within the time limit
 optimization-methods-sdu/
 ├── assignment1-differentiation/
 │   ├── opt_assign1.ipynb
-│   └── report_assignment1.pdf
+│   └── opt_assignment1.pdf
 ├── assignment2-ml-optimization/
-│   ├── asg_2_.py
-│   └── report_assignment2.pdf
+│   ├── asg_[2]_.py
+│   └── asg_2_.pdf
 ├── assignment3-game-theory/
-│   ├── asg_3_.py
-│   └── report_assignment3.pdf
+│   ├── asg_[3].py
+│   └── asg_3_.pdf
 ├── assignment4-candle-race/
 │   ├── candle_race.py
-│   └── report_assignment4.pdf
+│   └── asg_4_.pdf
 └── README.md
 ```
 
